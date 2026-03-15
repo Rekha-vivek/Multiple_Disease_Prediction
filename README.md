@@ -344,4 +344,4 @@ The system allows users to input medical parameters and receive disease predicti
 
 # 👩‍💻 Author
 
-This project was developed as part of a **Machine Learning and Data Science learning project** to understand the complete ML pipeline from data preprocessing to model deployment.
+Rekha 
